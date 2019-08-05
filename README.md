@@ -11,6 +11,10 @@ First you need to define the enviroment variables `USER`, `SERVER` and `PW`
 
 You can also put these variables into `/etc/fdroid-repomaker-uploader`
 
+# Installation
+
+Install/update the script globally using `sudo make install`
+
 # Usage
 
 Now you can call the script the following way:
